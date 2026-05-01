@@ -10,24 +10,24 @@ The main goal of this system is to digitize the traditional appointment booking 
 ⚙️ Features
 
 👑 Admin
-Add, edit, and delete doctors
-Manage doctor schedules
-View patient details
-View all appointment bookings
+> Add, edit, and delete doctors
+> Manage doctor schedules
+> View patient details
+> View all appointment bookings
 
 🩺 Doctor
-View appointments
-Manage scheduled sessions
-View patient details
-Edit account settings
-Delete account
+> View appointments
+> Manage scheduled sessions
+> View patient details
+> Edit account settings
+> Delete account
 
 👤 Patient
-Register and create account
-Book appointments online
-View appointment history
-Edit account settings
-Delete account
+> Register and create account
+> Book appointments online
+> View appointment history
+> Edit account settings
+> Delete account
 
 🔐 Default Login Credentials
 Role	     Email	        Password
